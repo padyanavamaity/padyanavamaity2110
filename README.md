@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Padyanava Maity<br><br>Welcome to my personal GitHub! This is where I build, experiment, and learn through code.<br><br>## About Me<br><br>* 🎓 Student & aspiring software developer<br>* 💻 Interested in Web Development, Python, AI, and Open Source<br>* 🚀 Always exploring new technologies and improving my skills<br>* 🎯 Goal: Build impactful projects and grow as a developer<br><br>## Tech Stack<br><br>* HTML5<br>* CSS3<br>* JavaScript<br>* Python<br>* Git & GitHub<br><br>## Current Focus<br><br>* Building modern web applications<br>* Learning software development best practices<br>* Contributing to personal and community projects<br><br>> *"Keep learning. Keep building. Keep improving."*<br>
+# 👋 Hi, I'm Padyanava Maity<br><br>## About Me<br><br>* 🎓 Student & aspiring software developer<br>* 💻 Interested in Web Development, Python, AI, and Open Source<br>* 🚀 Always exploring new technologies and improving my skills<br>* 🎯 Goal: Build impactful projects and grow as a developer<br><br>## Tech Stack<br><br>* HTML5<br>* CSS3<br>* JavaScript<br>* Python<br>* Git & GitHub<br><br>## Current Focus<br><br>* Building modern web applications<br>* Learning software development best practices<br>* Contributing to personal and community projects<br><br>> *"Keep learning. Keep building. Keep improving."*<br>
 
 
 ## 🌐 Socials:
